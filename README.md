@@ -19,7 +19,7 @@ Cette application vise à afficher une liste de pizzas contenant une carte réel
 [Cliquez ici pour voir l'application sur Netlify](https://alexpierini-sds2.netlify.app/)
 
 ## Interface d'utilisateur
-![Home](../master/img/Page1.png)
+![Home](../main/img/Page1.png)
 
 ![Dashboard](../main/img/Page2-1.png)
 ![Dashboard](../main/img/Page2-2.png)
